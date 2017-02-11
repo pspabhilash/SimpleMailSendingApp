@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SendingMail</string>
+
+    <string name="prompt_email">Email Id</string>
+
+    <string name="email_message">Email Message</string>
+    <string name="error_invalid_password">Invalid Email id</string>
+</resources>
